@@ -918,7 +918,7 @@
     "number": "singular",
     "tense": "aorist",
     "mood": "optative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1715895
   },
   {
@@ -2146,7 +2146,7 @@
     "partOfSpeech": "verb",
     "tense": "aorist",
     "mood": "infinitive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1715903
   },
   {
@@ -2837,7 +2837,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1715908
   },
   {
@@ -2956,7 +2956,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1715908
   },
   {
@@ -3298,7 +3298,7 @@
     "number": "plural",
     "tense": "present",
     "mood": "subjunctive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1715911
   },
   {
@@ -4039,7 +4039,7 @@
     "number": "singular",
     "tense": "aorist",
     "mood": "optative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1715915
   },
   {
@@ -5285,7 +5285,7 @@
     "number": "plural",
     "tense": "present",
     "mood": "subjunctive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1715923
   },
   {
@@ -5376,7 +5376,7 @@
     "number": "singular",
     "tense": "imperfect",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1715924
   },
   {
@@ -6230,7 +6230,7 @@
     "number": "singular",
     "tense": "imperfect",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1715930
   },
   {
@@ -9682,7 +9682,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "imperative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1715953
   },
   {
@@ -10345,7 +10345,7 @@
     "number": "plural",
     "tense": "imperfect",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1715958
   },
   {
@@ -10464,7 +10464,7 @@
     "partOfSpeech": "participle",
     "number": "plural",
     "tense": "perfect",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "masculine",
     "case": "nominative",
     "sentenceId": 1715959
@@ -10736,7 +10736,7 @@
     "number": "plural",
     "tense": "imperfect",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1715962
   },
   {
@@ -11031,7 +11031,7 @@
     "number": "plural",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1715964
   },
   {
@@ -11720,7 +11720,7 @@
     "number": "singular",
     "tense": "imperfect",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1715966
   },
   {
@@ -12083,7 +12083,7 @@
     "number": "plural",
     "tense": "imperfect",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1715968
   },
   {
@@ -12402,7 +12402,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "present",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "masculine",
     "case": "nominative",
     "sentenceId": 1715969
@@ -12712,7 +12712,7 @@
     "number": "plural",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1715970
   },
   {
@@ -13631,7 +13631,7 @@
     "number": "plural",
     "tense": "imperfect",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1715974
   },
   {
@@ -14386,7 +14386,7 @@
     "number": "plural",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1715978
   },
   {
@@ -14700,7 +14700,7 @@
     "partOfSpeech": "participle",
     "number": "plural",
     "tense": "present",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "masculine",
     "case": "accusative",
     "sentenceId": 1715979
@@ -16279,7 +16279,7 @@
     "number": "plural",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1715990
   },
   {
@@ -16372,7 +16372,7 @@
     "partOfSpeech": "participle",
     "number": "plural",
     "tense": "present",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "masculine",
     "case": "nominative",
     "sentenceId": 1715990
@@ -16504,7 +16504,7 @@
     "number": "singular",
     "tense": "future perfect",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1715992
   },
   {
@@ -16668,7 +16668,7 @@
     "partOfSpeech": "participle",
     "number": "plural",
     "tense": "present",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "masculine",
     "case": "nominative",
     "sentenceId": 1715993
@@ -18792,7 +18792,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "perfect",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "feminine",
     "case": "nominative",
     "sentenceId": 1716008
@@ -18838,7 +18838,7 @@
     "number": "singular",
     "tense": "imperfect",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716008
   },
   {
@@ -19458,7 +19458,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716015
   },
   {
@@ -19546,7 +19546,7 @@
     "number": "singular",
     "tense": "imperfect",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716016
   },
   {
@@ -19899,7 +19899,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716019
   },
   {
@@ -20403,7 +20403,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "present",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "feminine",
     "case": "genitive",
     "sentenceId": 1716024
@@ -20582,7 +20582,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716025
   },
   {
@@ -21241,7 +21241,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716027
   },
   {
@@ -21460,7 +21460,7 @@
     "number": "plural",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716028
   },
   {
@@ -21945,7 +21945,7 @@
     "number": "plural",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716033
   },
   {
@@ -22191,7 +22191,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716034
   },
   {
@@ -22383,7 +22383,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716035
   },
   {
@@ -22990,7 +22990,7 @@
     "number": "plural",
     "tense": "present",
     "mood": "imperative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716040
   },
   {
@@ -23123,7 +23123,7 @@
     "number": "plural",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716041
   },
   {
@@ -23980,7 +23980,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716045
   },
   {
@@ -24222,7 +24222,7 @@
     "partOfSpeech": "participle",
     "number": "plural",
     "tense": "present",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "masculine",
     "case": "nominative",
     "sentenceId": 1716046
@@ -25422,7 +25422,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "imperative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716052
   },
   {
@@ -25531,7 +25531,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "imperative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716052
   },
   {
@@ -25908,7 +25908,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716054
   },
   {
@@ -26377,7 +26377,7 @@
     "number": "singular",
     "tense": "perfect",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716056
   },
   {
@@ -27061,7 +27061,7 @@
     "number": "singular",
     "tense": "aorist",
     "mood": "subjunctive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716063
   },
   {
@@ -27478,7 +27478,7 @@
     "number": "singular",
     "tense": "aorist",
     "mood": "subjunctive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716065
   },
   {
@@ -27622,7 +27622,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "subjunctive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716066
   },
   {
@@ -27747,7 +27747,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "perfect",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "masculine",
     "case": "nominative",
     "sentenceId": 1716067
@@ -27784,7 +27784,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "imperative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716067
   },
   {
@@ -28711,7 +28711,7 @@
     "partOfSpeech": "participle",
     "number": "plural",
     "tense": "present",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "masculine",
     "case": "nominative",
     "sentenceId": 1716072
@@ -28904,7 +28904,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "subjunctive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716074
   },
   {
@@ -29136,7 +29136,7 @@
     "partOfSpeech": "verb",
     "tense": "present",
     "mood": "infinitive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716076
   },
   {
@@ -29400,7 +29400,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "perfect",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "masculine",
     "case": "accusative",
     "sentenceId": 1716077
@@ -29517,7 +29517,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716077
   },
   {
@@ -29849,7 +29849,7 @@
     "number": "singular",
     "tense": "aorist",
     "mood": "subjunctive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716080
   },
   {
@@ -29923,7 +29923,7 @@
     "number": "singular",
     "tense": "aorist",
     "mood": "subjunctive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716080
   },
   {
@@ -29979,7 +29979,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716080
   },
   {
@@ -30698,7 +30698,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716082
   },
   {
@@ -30859,7 +30859,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "present",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "masculine",
     "case": "nominative",
     "sentenceId": 1716082
@@ -30959,7 +30959,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716083
   },
   {
@@ -31415,7 +31415,7 @@
     "partOfSpeech": "verb",
     "tense": "present",
     "mood": "infinitive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716086
   },
   {
@@ -31456,7 +31456,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "subjunctive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716086
   },
   {
@@ -31662,7 +31662,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "subjunctive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716086
   },
   {
@@ -32536,7 +32536,7 @@
     "partOfSpeech": "verb",
     "tense": "present",
     "mood": "infinitive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716093
   },
   {
@@ -32710,7 +32710,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "subjunctive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716093
   },
   {
@@ -33604,7 +33604,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716100
   },
   {
@@ -34272,7 +34272,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "present",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "neuter",
     "case": "nominative",
     "sentenceId": 1716104
@@ -34558,7 +34558,7 @@
     "partOfSpeech": "verb",
     "tense": "present",
     "mood": "infinitive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716106
   },
   {
@@ -34593,7 +34593,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "present",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "masculine",
     "case": "genitive",
     "sentenceId": 1716107
@@ -34681,7 +34681,7 @@
     "partOfSpeech": "verb",
     "tense": "present",
     "mood": "infinitive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716107
   },
   {
@@ -34810,7 +34810,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "perfect",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "masculine",
     "case": "nominative",
     "sentenceId": 1716109
@@ -34924,7 +34924,7 @@
     "partOfSpeech": "verb",
     "tense": "aorist",
     "mood": "infinitive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716110
   },
   {
@@ -35428,7 +35428,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716114
   },
   {
@@ -35805,7 +35805,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716118
   },
   {
@@ -35930,7 +35930,7 @@
     "partOfSpeech": "verb",
     "tense": "present",
     "mood": "infinitive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716118
   },
   {
@@ -35975,7 +35975,7 @@
     "partOfSpeech": "participle",
     "number": "plural",
     "tense": "present",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "feminine",
     "case": "genitive",
     "sentenceId": 1716119
@@ -35989,7 +35989,7 @@
     "partOfSpeech": "verb",
     "tense": "present",
     "mood": "infinitive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716119
   },
   {
@@ -36149,7 +36149,7 @@
     "number": "plural",
     "tense": "perfect",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716120
   },
   {
@@ -36216,7 +36216,7 @@
     "number": "plural",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716120
   },
   {
@@ -36249,7 +36249,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "present",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "masculine",
     "case": "genitive",
     "sentenceId": 1716120
@@ -36319,7 +36319,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716121
   },
   {
@@ -36747,7 +36747,7 @@
     "partOfSpeech": "verb",
     "tense": "present",
     "mood": "infinitive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716122
   },
   {
@@ -36824,7 +36824,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "subjunctive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716123
   },
   {
@@ -37146,7 +37146,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "imperative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716126
   },
   {
@@ -37824,7 +37824,7 @@
     "partOfSpeech": "verb",
     "tense": "present",
     "mood": "infinitive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716130
   },
   {
@@ -38093,7 +38093,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "optative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716131
   },
   {
@@ -38290,7 +38290,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "subjunctive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716131
   },
   {
@@ -38333,7 +38333,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "subjunctive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716131
   },
   {
@@ -38386,7 +38386,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "subjunctive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716131
   },
   {
@@ -38478,7 +38478,7 @@
     "partOfSpeech": "verb",
     "tense": "present",
     "mood": "infinitive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716132
   },
   {
@@ -38642,7 +38642,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "present",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "masculine",
     "case": "nominative",
     "sentenceId": 1716133
@@ -38987,7 +38987,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716136
   },
   {
@@ -39167,7 +39167,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716137
   },
   {
@@ -39290,7 +39290,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716138
   },
   {
@@ -39476,7 +39476,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "perfect",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "masculine",
     "case": "nominative",
     "sentenceId": 1716139
@@ -40096,7 +40096,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "present",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "masculine",
     "case": "nominative",
     "sentenceId": 1716145
@@ -40356,7 +40356,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716146
   },
   {
@@ -40410,7 +40410,7 @@
     "partOfSpeech": "verb",
     "tense": "aorist",
     "mood": "infinitive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716147
   },
   {
@@ -40886,7 +40886,7 @@
     "partOfSpeech": "verb",
     "tense": "perfect",
     "mood": "infinitive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716150
   },
   {
@@ -41029,7 +41029,7 @@
     "partOfSpeech": "verb",
     "tense": "present",
     "mood": "infinitive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716151
   },
   {
@@ -41319,7 +41319,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "optative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716153
   },
   {
@@ -41800,7 +41800,7 @@
     "number": "singular",
     "tense": "perfect",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716155
   },
   {
@@ -41821,7 +41821,7 @@
     "partOfSpeech": "verb",
     "tense": "present",
     "mood": "infinitive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716156
   },
   {
@@ -42734,7 +42734,7 @@
     "partOfSpeech": "verb",
     "tense": "aorist",
     "mood": "infinitive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716165
   },
   {
@@ -43161,7 +43161,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "present",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "feminine",
     "case": "nominative",
     "sentenceId": 1716168
@@ -43352,7 +43352,7 @@
     "partOfSpeech": "verb",
     "tense": "present",
     "mood": "infinitive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716171
   },
   {
@@ -43508,7 +43508,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "present",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "masculine",
     "case": "nominative",
     "sentenceId": 1716171
@@ -43679,7 +43679,7 @@
     "number": "singular",
     "tense": "aorist",
     "mood": "subjunctive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716171
   },
   {
@@ -44504,7 +44504,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "perfect",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "masculine",
     "case": "nominative",
     "sentenceId": 1716177
@@ -44749,7 +44749,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "perfect",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "masculine",
     "case": "nominative",
     "sentenceId": 1716178
@@ -44900,7 +44900,7 @@
     "number": "plural",
     "tense": "future",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716179
   },
   {
@@ -45669,7 +45669,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "imperative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716184
   },
   {
@@ -45754,7 +45754,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "present",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "neuter",
     "case": "nominative",
     "sentenceId": 1716185
@@ -46515,7 +46515,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "perfect",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "masculine",
     "case": "accusative",
     "sentenceId": 1716188
@@ -46813,7 +46813,7 @@
     "number": "plural",
     "tense": "present",
     "mood": "imperative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716190
   },
   {
@@ -47882,7 +47882,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716196
   },
   {
@@ -48988,7 +48988,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716203
   },
   {
@@ -49318,7 +49318,7 @@
     "partOfSpeech": "participle",
     "number": "plural",
     "tense": "present",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "masculine",
     "case": "nominative",
     "sentenceId": 1716205
@@ -49584,7 +49584,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716206
   },
   {
@@ -50099,7 +50099,7 @@
     "partOfSpeech": "participle",
     "number": "plural",
     "tense": "present",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "feminine",
     "case": "nominative",
     "sentenceId": 1716209
@@ -50645,7 +50645,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "subjunctive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716212
   },
   {
@@ -50710,7 +50710,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716213
   },
   {
@@ -50849,7 +50849,7 @@
     "number": "singular",
     "tense": "perfect",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716213
   },
   {
@@ -51265,7 +51265,7 @@
     "partOfSpeech": "verb",
     "tense": "present",
     "mood": "infinitive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716215
   },
   {
@@ -51852,7 +51852,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "present",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "masculine",
     "case": "nominative",
     "sentenceId": 1716220
@@ -51866,7 +51866,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "perfect",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "masculine",
     "case": "accusative",
     "sentenceId": 1716220
@@ -51901,7 +51901,7 @@
     "partOfSpeech": "verb",
     "tense": "present",
     "mood": "infinitive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716220
   },
   {
@@ -52322,7 +52322,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716221
   },
   {
@@ -52501,7 +52501,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "present",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "neuter",
     "case": "genitive",
     "sentenceId": 1716222
@@ -53166,7 +53166,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "present",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "masculine",
     "case": "nominative",
     "sentenceId": 1716228
@@ -53303,7 +53303,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716229
   },
   {
@@ -53726,7 +53726,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "present",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "masculine",
     "case": "nominative",
     "sentenceId": 1716230
@@ -53754,7 +53754,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716230
   },
   {
@@ -54390,7 +54390,7 @@
     "partOfSpeech": "participle",
     "number": "plural",
     "tense": "present",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "masculine",
     "case": "genitive",
     "sentenceId": 1716231
@@ -54615,7 +54615,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "present",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "masculine",
     "case": "accusative",
     "sentenceId": 1716232
@@ -54638,7 +54638,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "perfect",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "masculine",
     "case": "accusative",
     "sentenceId": 1716232
@@ -55336,7 +55336,7 @@
     "number": "singular",
     "tense": "aorist",
     "mood": "subjunctive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716235
   },
   {
@@ -55425,7 +55425,7 @@
     "partOfSpeech": "verb",
     "tense": "present",
     "mood": "infinitive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716235
   },
   {
@@ -55470,7 +55470,7 @@
     "partOfSpeech": "verb",
     "tense": "present",
     "mood": "infinitive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716235
   },
   {
@@ -55484,7 +55484,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716235
   },
   {
@@ -55624,7 +55624,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "imperative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716237
   },
   {
@@ -55733,7 +55733,7 @@
     "number": "singular",
     "tense": "aorist",
     "mood": "subjunctive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716237
   },
   {
@@ -56696,7 +56696,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "perfect",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "masculine",
     "case": "nominative",
     "sentenceId": 1716242
@@ -57228,7 +57228,7 @@
     "partOfSpeech": "verb",
     "tense": "present",
     "mood": "infinitive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716245
   },
   {
@@ -57240,7 +57240,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "perfect",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "masculine",
     "case": "nominative",
     "sentenceId": 1716245
@@ -58300,7 +58300,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "perfect",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "masculine",
     "case": "nominative",
     "sentenceId": 1716250
@@ -59039,7 +59039,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "perfect",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "masculine",
     "case": "nominative",
     "sentenceId": 1716254
@@ -59233,7 +59233,7 @@
     "partOfSpeech": "verb",
     "tense": "aorist",
     "mood": "infinitive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716255
   },
   {
@@ -59540,7 +59540,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "subjunctive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716257
   },
   {
@@ -59748,7 +59748,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "perfect",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "masculine",
     "case": "nominative",
     "sentenceId": 1716257
@@ -60316,7 +60316,7 @@
     "partOfSpeech": "participle",
     "number": "plural",
     "tense": "perfect",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "neuter",
     "case": "accusative",
     "sentenceId": 1716260
@@ -60723,7 +60723,7 @@
     "number": "singular",
     "tense": "perfect",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716263
   },
   {
@@ -61091,7 +61091,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716266
   },
   {
@@ -61761,7 +61761,7 @@
     "partOfSpeech": "verb",
     "tense": "present",
     "mood": "infinitive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716270
   },
   {
@@ -61842,7 +61842,7 @@
     "partOfSpeech": "verb",
     "tense": "present",
     "mood": "infinitive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716270
   },
   {
@@ -62257,7 +62257,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716272
   },
   {
@@ -62628,7 +62628,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716274
   },
   {
@@ -62759,7 +62759,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "perfect",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "masculine",
     "case": "nominative",
     "sentenceId": 1716276
@@ -63003,7 +63003,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716280
   },
   {
@@ -63159,7 +63159,7 @@
     "partOfSpeech": "verb",
     "tense": "present",
     "mood": "infinitive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716282
   },
   {
@@ -63331,7 +63331,7 @@
     "partOfSpeech": "verb",
     "tense": "present",
     "mood": "infinitive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716283
   },
   {
@@ -63429,7 +63429,7 @@
     "partOfSpeech": "verb",
     "tense": "present",
     "mood": "infinitive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716284
   },
   {
@@ -63735,7 +63735,7 @@
     "partOfSpeech": "verb",
     "tense": "present",
     "mood": "infinitive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716288
   },
   {
@@ -63885,7 +63885,7 @@
     "partOfSpeech": "verb",
     "tense": "present",
     "mood": "infinitive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716290
   },
   {
@@ -64178,7 +64178,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "optative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716292
   },
   {
@@ -64589,7 +64589,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716295
   },
   {
@@ -64966,7 +64966,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "perfect",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "masculine",
     "case": "nominative",
     "sentenceId": 1716297
@@ -65043,7 +65043,7 @@
     "partOfSpeech": "verb",
     "tense": "present",
     "mood": "infinitive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716298
   },
   {
@@ -65212,7 +65212,7 @@
     "partOfSpeech": "verb",
     "tense": "present",
     "mood": "infinitive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716300
   },
   {
@@ -65442,7 +65442,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "perfect",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "masculine",
     "case": "nominative",
     "sentenceId": 1716301
@@ -65701,7 +65701,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716303
   },
   {
@@ -65870,7 +65870,7 @@
     "partOfSpeech": "verb",
     "tense": "present",
     "mood": "infinitive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716304
   },
   {
@@ -66938,7 +66938,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "perfect",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "masculine",
     "case": "nominative",
     "sentenceId": 1716312
@@ -67035,7 +67035,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "perfect",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "masculine",
     "case": "nominative",
     "sentenceId": 1716313
@@ -67279,7 +67279,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "present",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "masculine",
     "case": "nominative",
     "sentenceId": 1716316
@@ -67356,7 +67356,7 @@
     "partOfSpeech": "participle",
     "number": "plural",
     "tense": "perfect",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "neuter",
     "case": "accusative",
     "sentenceId": 1716316
@@ -67533,7 +67533,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "perfect",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "masculine",
     "case": "nominative",
     "sentenceId": 1716317
@@ -68561,7 +68561,7 @@
     "number": "singular",
     "tense": "perfect",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716323
   },
   {
@@ -68677,7 +68677,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "present",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "feminine",
     "case": "nominative",
     "sentenceId": 1716324
@@ -68833,7 +68833,7 @@
     "partOfSpeech": "verb",
     "tense": "present",
     "mood": "infinitive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716325
   },
   {
@@ -69177,7 +69177,7 @@
     "number": "singular",
     "tense": "perfect",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716328
   },
   {
@@ -69252,7 +69252,7 @@
     "partOfSpeech": "verb",
     "tense": "present",
     "mood": "infinitive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716329
   },
   {
@@ -69431,7 +69431,7 @@
     "partOfSpeech": "participle",
     "number": "plural",
     "tense": "present",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "neuter",
     "case": "dative",
     "sentenceId": 1716331
@@ -70007,7 +70007,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716338
   },
   {
@@ -70151,7 +70151,7 @@
     "partOfSpeech": "verb",
     "tense": "aorist",
     "mood": "infinitive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716338
   },
   {
@@ -70216,7 +70216,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716339
   },
   {
@@ -70424,7 +70424,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "perfect",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "masculine",
     "case": "nominative",
     "sentenceId": 1716341
@@ -71073,7 +71073,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "present",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "masculine",
     "case": "genitive",
     "sentenceId": 1716346
@@ -71111,7 +71111,7 @@
     "partOfSpeech": "verb",
     "tense": "present",
     "mood": "infinitive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716346
   },
   {
@@ -71300,7 +71300,7 @@
     "partOfSpeech": "verb",
     "tense": "present",
     "mood": "infinitive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716347
   },
   {
@@ -71714,7 +71714,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "present",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "masculine",
     "case": "genitive",
     "sentenceId": 1716351
@@ -72939,7 +72939,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "perfect",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "masculine",
     "case": "nominative",
     "sentenceId": 1716360
@@ -73304,7 +73304,7 @@
     "number": "singular",
     "tense": "perfect",
     "mood": "imperative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716363
   },
   {
@@ -73384,7 +73384,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "present",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "neuter",
     "case": "genitive",
     "sentenceId": 1716363
@@ -73463,7 +73463,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "perfect",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "neuter",
     "case": "nominative",
     "sentenceId": 1716363
@@ -73540,7 +73540,7 @@
     "partOfSpeech": "verb",
     "tense": "present",
     "mood": "infinitive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716364
   },
   {
@@ -73859,7 +73859,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "present",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "masculine",
     "case": "accusative",
     "sentenceId": 1716366
@@ -74268,7 +74268,7 @@
     "number": "plural",
     "tense": "present",
     "mood": "indicative",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716367
   },
   {
@@ -74310,7 +74310,7 @@
     "partOfSpeech": "verb",
     "tense": "present",
     "mood": "infinitive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716368
   },
   {
@@ -74334,7 +74334,7 @@
     "partOfSpeech": "verb",
     "tense": "present",
     "mood": "infinitive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716368
   },
   {
@@ -75334,7 +75334,7 @@
     "partOfSpeech": "participle",
     "number": "singular",
     "tense": "present",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "gender": "feminine",
     "case": "genitive",
     "sentenceId": 1716376
@@ -75934,7 +75934,7 @@
     "number": "singular",
     "tense": "present",
     "mood": "subjunctive",
-    "voice": "middle-passive",
+    "voice": "middlePassive",
     "sentenceId": 1716381
   },
   {
